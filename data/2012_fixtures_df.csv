@@ -1,0 +1,381 @@
+Fixture ID,Game Date,Home Team ID,Away Team ID,Home Team Goals,Away Team Goals,Venue,Home Team,Away Team,Home Team Logo,Away Team Logo
+193437,2012-08-18,42.0,74.0,0,0,Emirates Stadium (London),Arsenal,Sunderland,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/746.png
+193438,2012-08-18,36.0,71.0,5,0,Craven Cottage (London),Fulham,Norwich,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/71.png
+193439,2012-08-18,72.0,76.0,0,5,Loftus Road Stadium (London),QPR,Swansea,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/76.png
+193440,2012-08-18,53.0,75.0,1,1,Madejski Stadium (Reading),Reading,Stoke City,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/75.png
+193441,2012-08-18,60.0,40.0,3,0,The Hawthorns (West Bromwich),West Brom,Liverpool,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/40.png
+193442,2012-08-18,48.0,66.0,1,0,Boleyn Ground (London),West Ham,Aston Villa,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/66.png
+193443,2012-08-18,34.0,47.0,2,1,St. James' Park (Newcastle-upon-Tyne),Newcastle,Tottenham,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/47.png
+193444,2012-08-19,61.0,49.0,0,2,The DW Stadium (Wigan),Wigan,Chelsea,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/49.png
+193445,2012-08-19,50.0,41.0,3,2,Etihad Stadium (Manchester),Manchester City,Southampton,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/41.png
+193446,2012-08-20,45.0,33.0,1,0,Goodison Park (Liverpool),Everton,Manchester United,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/33.png
+193457,2012-08-22,49.0,53.0,4,2,Stamford Bridge (London),Chelsea,Reading,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/53.png
+193447,2012-08-25,76.0,48.0,3,0,Liberty Stadium (Swansea),Swansea,West Ham,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/48.png
+193448,2012-08-25,66.0,45.0,1,3,Villa Park (Birmingham),Aston Villa,Everton,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/45.png
+193449,2012-08-25,33.0,36.0,3,2,Old Trafford (Manchester),Manchester United,Fulham,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/36.png
+193450,2012-08-25,71.0,72.0,1,1,"Carrow Road (Norwich, Norfolk)",Norwich,QPR,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/72.png
+193451,2012-08-25,41.0,61.0,0,2,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Wigan,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/61.png
+193452,2012-08-25,47.0,60.0,1,1,White Hart Lane (London),Tottenham,West Brom,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/60.png
+193453,2012-08-25,49.0,34.0,2,0,Stamford Bridge (London),Chelsea,Newcastle,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/34.png
+193454,2012-08-26,75.0,42.0,0,0,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Arsenal,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/42.png
+193455,2012-08-26,40.0,50.0,2,2,Anfield (Liverpool),Liverpool,Manchester City,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/50.png
+193458,2012-09-01,48.0,36.0,3,0,Boleyn Ground (London),West Ham,Fulham,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/36.png
+193459,2012-09-01,76.0,74.0,2,2,Liberty Stadium (Swansea),Swansea,Sunderland,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/746.png
+193460,2012-09-01,47.0,71.0,1,1,White Hart Lane (London),Tottenham,Norwich,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/71.png
+193461,2012-09-01,60.0,45.0,2,0,The Hawthorns (West Bromwich),West Brom,Everton,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/45.png
+193462,2012-09-01,61.0,75.0,2,2,The DW Stadium (Wigan),Wigan,Stoke City,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/75.png
+193463,2012-09-01,50.0,72.0,3,1,Etihad Stadium (Manchester),Manchester City,QPR,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/72.png
+193464,2012-09-02,40.0,42.0,0,2,Anfield (Liverpool),Liverpool,Arsenal,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/42.png
+193465,2012-09-02,34.0,66.0,1,1,St. James' Park (Newcastle-upon-Tyne),Newcastle,Aston Villa,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/66.png
+193466,2012-09-02,41.0,33.0,2,3,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Manchester United,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/33.png
+193467,2012-09-15,71.0,48.0,0,0,"Carrow Road (Norwich, Norfolk)",Norwich,West Ham,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/48.png
+193468,2012-09-15,42.0,41.0,6,1,Emirates Stadium (London),Arsenal,Southampton,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/41.png
+193469,2012-09-15,66.0,76.0,2,0,Villa Park (Birmingham),Aston Villa,Swansea,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/76.png
+193470,2012-09-15,36.0,60.0,3,0,Craven Cottage (London),Fulham,West Brom,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/60.png
+193471,2012-09-15,33.0,61.0,4,0,Old Trafford (Manchester),Manchester United,Wigan,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/61.png
+193472,2012-09-15,72.0,49.0,0,0,Loftus Road Stadium (London),QPR,Chelsea,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/49.png
+193473,2012-09-15,75.0,50.0,1,1,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Manchester City,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/50.png
+193474,2012-09-15,74.0,40.0,1,1,Stadium of Light (Sunderland),Sunderland,Liverpool,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/40.png
+193475,2012-09-16,53.0,47.0,1,3,Madejski Stadium (Reading),Reading,Tottenham,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/47.png
+193476,2012-09-17,45.0,34.0,2,2,Goodison Park (Liverpool),Everton,Newcastle,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/34.png
+193477,2012-09-22,76.0,45.0,0,3,Liberty Stadium (Swansea),Swansea,Everton,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/45.png
+193478,2012-09-22,49.0,75.0,1,0,Stamford Bridge (London),Chelsea,Stoke City,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/75.png
+193479,2012-09-22,41.0,66.0,4,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Aston Villa,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/66.png
+193480,2012-09-22,60.0,53.0,1,0,The Hawthorns (West Bromwich),West Brom,Reading,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/53.png
+193481,2012-09-22,48.0,74.0,1,1,Boleyn Ground (London),West Ham,Sunderland,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/746.png
+193482,2012-09-22,61.0,36.0,1,2,The DW Stadium (Wigan),Wigan,Fulham,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/36.png
+193483,2012-09-23,40.0,33.0,1,2,Anfield (Liverpool),Liverpool,Manchester United,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/33.png
+193484,2012-09-23,34.0,71.0,1,0,St. James' Park (Newcastle-upon-Tyne),Newcastle,Norwich,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/71.png
+193485,2012-09-23,50.0,42.0,1,1,Etihad Stadium (Manchester),Manchester City,Arsenal,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/42.png
+193486,2012-09-23,47.0,72.0,2,1,White Hart Lane (London),Tottenham,QPR,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/72.png
+193487,2012-09-29,42.0,49.0,1,2,Emirates Stadium (London),Arsenal,Chelsea,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/49.png
+193488,2012-09-29,45.0,41.0,3,1,Goodison Park (Liverpool),Everton,Southampton,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/41.png
+193489,2012-09-29,36.0,50.0,1,2,Craven Cottage (London),Fulham,Manchester City,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/50.png
+193490,2012-09-29,71.0,40.0,2,5,"Carrow Road (Norwich, Norfolk)",Norwich,Liverpool,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/40.png
+193491,2012-09-29,53.0,34.0,2,2,Madejski Stadium (Reading),Reading,Newcastle,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/34.png
+193492,2012-09-29,75.0,76.0,2,0,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Swansea,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/76.png
+193493,2012-09-29,74.0,61.0,1,0,Stadium of Light (Sunderland),Sunderland,Wigan,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/61.png
+193494,2012-09-29,33.0,47.0,2,3,Old Trafford (Manchester),Manchester United,Tottenham,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/47.png
+193495,2012-09-30,66.0,60.0,1,1,Villa Park (Birmingham),Aston Villa,West Brom,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/60.png
+193496,2012-10-01,72.0,48.0,1,2,Loftus Road Stadium (London),QPR,West Ham,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/48.png
+193497,2012-10-06,50.0,74.0,3,0,Etihad Stadium (Manchester),Manchester City,Sunderland,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/746.png
+193498,2012-10-06,49.0,71.0,4,1,Stamford Bridge (London),Chelsea,Norwich,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/71.png
+193499,2012-10-06,76.0,53.0,2,2,Liberty Stadium (Swansea),Swansea,Reading,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/53.png
+193500,2012-10-06,60.0,72.0,3,2,The Hawthorns (West Bromwich),West Brom,QPR,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/72.png
+193501,2012-10-06,61.0,45.0,2,2,The DW Stadium (Wigan),Wigan,Everton,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/45.png
+193502,2012-10-06,48.0,42.0,1,3,Boleyn Ground (London),West Ham,Arsenal,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/42.png
+193503,2012-10-07,41.0,36.0,2,2,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Fulham,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/36.png
+193504,2012-10-07,40.0,75.0,0,0,Anfield (Liverpool),Liverpool,Stoke City,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/75.png
+193505,2012-10-07,47.0,66.0,2,0,White Hart Lane (London),Tottenham,Aston Villa,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/66.png
+193506,2012-10-07,34.0,33.0,0,3,St. James' Park (Newcastle-upon-Tyne),Newcastle,Manchester United,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/33.png
+193507,2012-10-20,47.0,49.0,2,4,White Hart Lane (London),Tottenham,Chelsea,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/49.png
+193508,2012-10-20,36.0,66.0,1,0,Craven Cottage (London),Fulham,Aston Villa,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/66.png
+193509,2012-10-20,40.0,53.0,1,0,Anfield (Liverpool),Liverpool,Reading,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/53.png
+193510,2012-10-20,33.0,75.0,4,2,Old Trafford (Manchester),Manchester United,Stoke City,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/75.png
+193511,2012-10-20,76.0,61.0,2,1,Liberty Stadium (Swansea),Swansea,Wigan,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/61.png
+193512,2012-10-20,60.0,50.0,1,2,The Hawthorns (West Bromwich),West Brom,Manchester City,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/50.png
+193513,2012-10-20,48.0,41.0,4,1,Boleyn Ground (London),West Ham,Southampton,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/41.png
+193514,2012-10-20,71.0,42.0,1,0,"Carrow Road (Norwich, Norfolk)",Norwich,Arsenal,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/42.png
+193515,2012-10-21,74.0,34.0,1,1,Stadium of Light (Sunderland),Sunderland,Newcastle,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/34.png
+193516,2012-10-21,72.0,45.0,1,1,Loftus Road Stadium (London),QPR,Everton,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/45.png
+193517,2012-10-27,66.0,71.0,1,1,Villa Park (Birmingham),Aston Villa,Norwich,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/71.png
+193518,2012-10-27,42.0,72.0,1,0,Emirates Stadium (London),Arsenal,QPR,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/72.png
+193519,2012-10-27,53.0,36.0,3,3,Madejski Stadium (Reading),Reading,Fulham,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/36.png
+193520,2012-10-27,75.0,74.0,0,0,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Sunderland,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/746.png
+193521,2012-10-27,61.0,48.0,2,1,The DW Stadium (Wigan),Wigan,West Ham,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/48.png
+193522,2012-10-27,50.0,76.0,1,0,Etihad Stadium (Manchester),Manchester City,Swansea,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/76.png
+193523,2012-10-28,45.0,40.0,2,2,Goodison Park (Liverpool),Everton,Liverpool,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/40.png
+193524,2012-10-28,34.0,60.0,2,1,St. James' Park (Newcastle-upon-Tyne),Newcastle,West Brom,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/60.png
+193525,2012-10-28,41.0,47.0,1,2,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Tottenham,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/47.png
+193526,2012-10-28,49.0,33.0,2,3,Stamford Bridge (London),Chelsea,Manchester United,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/33.png
+193527,2012-11-03,33.0,42.0,2,1,Old Trafford (Manchester),Manchester United,Arsenal,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/42.png
+193528,2012-11-03,36.0,45.0,2,2,Craven Cottage (London),Fulham,Everton,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/45.png
+193529,2012-11-03,71.0,75.0,1,0,"Carrow Road (Norwich, Norfolk)",Norwich,Stoke City,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/75.png
+193530,2012-11-03,74.0,66.0,0,1,Stadium of Light (Sunderland),Sunderland,Aston Villa,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/66.png
+193531,2012-11-03,76.0,49.0,1,1,Liberty Stadium (Swansea),Swansea,Chelsea,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/49.png
+193532,2012-11-03,47.0,61.0,0,1,White Hart Lane (London),Tottenham,Wigan,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/61.png
+193533,2012-11-03,48.0,50.0,0,0,Boleyn Ground (London),West Ham,Manchester City,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/50.png
+193534,2012-11-04,72.0,53.0,1,1,Loftus Road Stadium (London),QPR,Reading,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/53.png
+193535,2012-11-04,40.0,34.0,1,1,Anfield (Liverpool),Liverpool,Newcastle,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/34.png
+193536,2012-11-05,60.0,41.0,2,0,The Hawthorns (West Bromwich),West Brom,Southampton,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/41.png
+193537,2012-11-10,42.0,36.0,3,3,Emirates Stadium (London),Arsenal,Fulham,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/36.png
+193538,2012-11-10,45.0,74.0,2,1,Goodison Park (Liverpool),Everton,Sunderland,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/746.png
+193539,2012-11-10,53.0,71.0,0,0,Madejski Stadium (Reading),Reading,Norwich,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/71.png
+193540,2012-11-10,41.0,76.0,1,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Swansea,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/76.png
+193541,2012-11-10,75.0,72.0,1,0,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,QPR,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/72.png
+193542,2012-11-10,61.0,60.0,1,2,The DW Stadium (Wigan),Wigan,West Brom,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/60.png
+193543,2012-11-10,66.0,33.0,2,3,Villa Park (Birmingham),Aston Villa,Manchester United,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/33.png
+193544,2012-11-11,50.0,47.0,2,1,Etihad Stadium (Manchester),Manchester City,Tottenham,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/47.png
+193545,2012-11-11,34.0,48.0,0,1,St. James' Park (Newcastle-upon-Tyne),Newcastle,West Ham,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/48.png
+193546,2012-11-11,49.0,40.0,1,1,Stamford Bridge (London),Chelsea,Liverpool,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/40.png
+193547,2012-11-17,42.0,47.0,5,2,Emirates Stadium (London),Arsenal,Tottenham,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/47.png
+193548,2012-11-17,40.0,61.0,3,0,Anfield (Liverpool),Liverpool,Wigan,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/61.png
+193549,2012-11-17,50.0,66.0,5,0,Etihad Stadium (Manchester),Manchester City,Aston Villa,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/66.png
+193550,2012-11-17,34.0,76.0,1,2,St. James' Park (Newcastle-upon-Tyne),Newcastle,Swansea,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/76.png
+193551,2012-11-17,72.0,41.0,1,3,Loftus Road Stadium (London),QPR,Southampton,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/41.png
+193552,2012-11-17,53.0,45.0,2,1,Madejski Stadium (Reading),Reading,Everton,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/45.png
+193553,2012-11-17,60.0,49.0,2,1,The Hawthorns (West Bromwich),West Brom,Chelsea,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/49.png
+193554,2012-11-17,71.0,33.0,1,0,"Carrow Road (Norwich, Norfolk)",Norwich,Manchester United,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/33.png
+193555,2012-11-18,36.0,74.0,1,3,Craven Cottage (London),Fulham,Sunderland,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/746.png
+193556,2012-11-19,48.0,75.0,1,1,Boleyn Ground (London),West Ham,Stoke City,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/75.png
+193557,2012-11-24,74.0,60.0,2,4,Stadium of Light (Sunderland),Sunderland,West Brom,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/60.png
+193558,2012-11-24,45.0,71.0,1,1,Goodison Park (Liverpool),Everton,Norwich,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/71.png
+193559,2012-11-24,33.0,72.0,3,1,Old Trafford (Manchester),Manchester United,QPR,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/72.png
+193560,2012-11-24,75.0,36.0,1,0,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Fulham,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/36.png
+193561,2012-11-24,61.0,53.0,3,2,The DW Stadium (Wigan),Wigan,Reading,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/53.png
+193562,2012-11-24,66.0,42.0,0,0,Villa Park (Birmingham),Aston Villa,Arsenal,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/42.png
+193563,2012-11-25,76.0,40.0,0,0,Liberty Stadium (Swansea),Swansea,Liverpool,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/40.png
+193564,2012-11-25,41.0,34.0,2,0,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Newcastle,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/34.png
+193565,2012-11-25,49.0,50.0,0,0,Stamford Bridge (London),Chelsea,Manchester City,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/50.png
+193566,2012-11-25,47.0,48.0,3,1,White Hart Lane (London),Tottenham,West Ham,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/48.png
+193567,2012-11-27,74.0,72.0,0,0,Stadium of Light (Sunderland),Sunderland,QPR,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/72.png
+193568,2012-11-27,66.0,53.0,1,0,Villa Park (Birmingham),Aston Villa,Reading,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/53.png
+193569,2012-11-28,41.0,71.0,1,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Norwich,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/71.png
+193570,2012-11-28,75.0,34.0,2,1,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Newcastle,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/34.png
+193571,2012-11-28,76.0,60.0,3,1,Liberty Stadium (Swansea),Swansea,West Brom,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/60.png
+193572,2012-11-28,47.0,40.0,2,1,White Hart Lane (London),Tottenham,Liverpool,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/40.png
+193573,2012-11-28,49.0,36.0,0,0,Stamford Bridge (London),Chelsea,Fulham,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/36.png
+193574,2012-11-28,45.0,42.0,1,1,Goodison Park (Liverpool),Everton,Arsenal,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/42.png
+193575,2012-11-28,33.0,48.0,1,0,Old Trafford (Manchester),Manchester United,West Ham,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/48.png
+193576,2012-11-28,61.0,50.0,0,2,The DW Stadium (Wigan),Wigan,Manchester City,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/50.png
+193577,2012-12-01,48.0,49.0,3,1,Boleyn Ground (London),West Ham,Chelsea,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/49.png
+193578,2012-12-01,42.0,76.0,0,2,Emirates Stadium (London),Arsenal,Swansea,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/76.png
+193579,2012-12-01,36.0,47.0,0,3,Craven Cottage (London),Fulham,Tottenham,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/47.png
+193580,2012-12-01,40.0,41.0,1,0,Anfield (Liverpool),Liverpool,Southampton,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/41.png
+193581,2012-12-01,50.0,45.0,1,1,Etihad Stadium (Manchester),Manchester City,Everton,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/45.png
+193582,2012-12-01,72.0,66.0,1,1,Loftus Road Stadium (London),QPR,Aston Villa,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/66.png
+193583,2012-12-01,60.0,75.0,0,1,The Hawthorns (West Bromwich),West Brom,Stoke City,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/75.png
+193584,2012-12-01,53.0,33.0,3,4,Madejski Stadium (Reading),Reading,Manchester United,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/33.png
+193585,2012-12-02,71.0,74.0,2,1,"Carrow Road (Norwich, Norfolk)",Norwich,Sunderland,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/746.png
+193586,2012-12-03,34.0,61.0,3,0,St. James' Park (Newcastle-upon-Tyne),Newcastle,Wigan,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/61.png
+193587,2012-12-08,42.0,60.0,2,0,Emirates Stadium (London),Arsenal,West Brom,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/60.png
+193588,2012-12-08,66.0,75.0,0,0,Villa Park (Birmingham),Aston Villa,Stoke City,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/75.png
+193589,2012-12-08,41.0,53.0,1,0,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Reading,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/53.png
+193590,2012-12-08,74.0,49.0,1,3,Stadium of Light (Sunderland),Sunderland,Chelsea,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/49.png
+193591,2012-12-08,76.0,71.0,3,4,Liberty Stadium (Swansea),Swansea,Norwich,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/71.png
+193592,2012-12-08,61.0,72.0,2,2,The DW Stadium (Wigan),Wigan,QPR,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/72.png
+193593,2012-12-09,50.0,33.0,2,3,Etihad Stadium (Manchester),Manchester City,Manchester United,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/33.png
+193594,2012-12-09,45.0,47.0,2,1,Goodison Park (Liverpool),Everton,Tottenham,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/47.png
+193595,2012-12-09,48.0,40.0,2,3,Boleyn Ground (London),West Ham,Liverpool,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/40.png
+193596,2012-12-10,36.0,34.0,2,1,Craven Cottage (London),Fulham,Newcastle,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/34.png
+193456,2012-12-11,74.0,53.0,3,0,Stadium of Light (Sunderland),Sunderland,Reading,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/53.png
+193597,2012-12-15,34.0,50.0,1,3,St. James' Park (Newcastle-upon-Tyne),Newcastle,Manchester City,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/50.png
+193598,2012-12-15,40.0,66.0,1,3,Anfield (Liverpool),Liverpool,Aston Villa,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/66.png
+193599,2012-12-15,33.0,74.0,3,1,Old Trafford (Manchester),Manchester United,Sunderland,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/746.png
+193600,2012-12-15,71.0,61.0,2,1,"Carrow Road (Norwich, Norfolk)",Norwich,Wigan,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/61.png
+193601,2012-12-15,72.0,36.0,2,1,Loftus Road Stadium (London),QPR,Fulham,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/36.png
+193602,2012-12-15,75.0,45.0,1,1,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Everton,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/45.png
+193603,2012-12-16,47.0,76.0,1,0,White Hart Lane (London),Tottenham,Swansea,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/76.png
+193604,2012-12-16,60.0,48.0,0,0,The Hawthorns (West Bromwich),West Brom,West Ham,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/48.png
+193605,2012-12-17,53.0,42.0,2,5,Madejski Stadium (Reading),Reading,Arsenal,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/42.png
+193607,2012-12-22,61.0,42.0,0,1,The DW Stadium (Wigan),Wigan,Arsenal,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/42.png
+193608,2012-12-22,50.0,53.0,1,0,Etihad Stadium (Manchester),Manchester City,Reading,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/53.png
+193609,2012-12-22,34.0,72.0,1,0,St. James' Park (Newcastle-upon-Tyne),Newcastle,QPR,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/72.png
+193610,2012-12-22,41.0,74.0,0,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Sunderland,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/746.png
+193611,2012-12-22,47.0,75.0,0,0,White Hart Lane (London),Tottenham,Stoke City,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/75.png
+193612,2012-12-22,60.0,71.0,2,1,The Hawthorns (West Bromwich),West Brom,Norwich,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/71.png
+193613,2012-12-22,48.0,45.0,1,2,Boleyn Ground (London),West Ham,Everton,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/45.png
+193614,2012-12-22,40.0,36.0,4,0,Anfield (Liverpool),Liverpool,Fulham,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/36.png
+193615,2012-12-23,76.0,33.0,1,1,Liberty Stadium (Swansea),Swansea,Manchester United,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/33.png
+193616,2012-12-23,49.0,66.0,8,0,Stamford Bridge (London),Chelsea,Aston Villa,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/66.png
+193617,2012-12-26,45.0,61.0,2,1,Goodison Park (Liverpool),Everton,Wigan,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/61.png
+193618,2012-12-26,36.0,41.0,1,1,Craven Cottage (London),Fulham,Southampton,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/41.png
+193619,2012-12-26,33.0,34.0,4,3,Old Trafford (Manchester),Manchester United,Newcastle,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/34.png
+193620,2012-12-26,71.0,49.0,0,1,"Carrow Road (Norwich, Norfolk)",Norwich,Chelsea,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/49.png
+193621,2012-12-26,53.0,76.0,0,0,Madejski Stadium (Reading),Reading,Swansea,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/76.png
+193622,2012-12-26,74.0,50.0,1,0,Stadium of Light (Sunderland),Sunderland,Manchester City,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/50.png
+193623,2012-12-26,72.0,60.0,1,2,Loftus Road Stadium (London),QPR,West Brom,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/60.png
+193624,2012-12-26,66.0,47.0,0,4,Villa Park (Birmingham),Aston Villa,Tottenham,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/47.png
+193625,2012-12-26,75.0,40.0,3,1,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Liverpool,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/40.png
+193627,2012-12-29,74.0,47.0,1,2,Stadium of Light (Sunderland),Sunderland,Tottenham,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/47.png
+193628,2012-12-29,66.0,61.0,0,3,Villa Park (Birmingham),Aston Villa,Wigan,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/61.png
+193629,2012-12-29,36.0,76.0,1,2,Craven Cottage (London),Fulham,Swansea,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/76.png
+193630,2012-12-29,33.0,60.0,2,0,Old Trafford (Manchester),Manchester United,West Brom,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/60.png
+193631,2012-12-29,71.0,50.0,3,4,"Carrow Road (Norwich, Norfolk)",Norwich,Manchester City,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/50.png
+193632,2012-12-29,53.0,48.0,1,0,Madejski Stadium (Reading),Reading,West Ham,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/48.png
+193633,2012-12-29,75.0,41.0,3,3,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Southampton,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/41.png
+193634,2012-12-29,42.0,34.0,7,3,Emirates Stadium (London),Arsenal,Newcastle,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/34.png
+193635,2012-12-30,45.0,49.0,1,2,Goodison Park (Liverpool),Everton,Chelsea,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/49.png
+193636,2012-12-30,72.0,40.0,0,3,Loftus Road Stadium (London),QPR,Liverpool,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/40.png
+193637,2013-01-01,60.0,36.0,1,2,The Hawthorns (West Bromwich),West Brom,Fulham,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/36.png
+193638,2013-01-01,50.0,75.0,3,0,Etihad Stadium (Manchester),Manchester City,Stoke City,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/75.png
+193639,2013-01-01,76.0,66.0,2,2,Liberty Stadium (Swansea),Swansea,Aston Villa,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/66.png
+193640,2013-01-01,47.0,53.0,3,1,White Hart Lane (London),Tottenham,Reading,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/53.png
+193641,2013-01-01,48.0,71.0,2,1,Boleyn Ground (London),West Ham,Norwich,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/71.png
+193642,2013-01-01,61.0,33.0,0,4,The DW Stadium (Wigan),Wigan,Manchester United,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/33.png
+193643,2013-01-01,41.0,42.0,1,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Arsenal,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/42.png
+193644,2013-01-02,49.0,72.0,0,1,Stamford Bridge (London),Chelsea,QPR,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/72.png
+193645,2013-01-02,40.0,74.0,3,0,Anfield (Liverpool),Liverpool,Sunderland,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/746.png
+193646,2013-01-02,34.0,45.0,1,2,St. James' Park (Newcastle-upon-Tyne),Newcastle,Everton,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/45.png
+193647,2013-01-12,72.0,47.0,0,0,Loftus Road Stadium (London),QPR,Tottenham,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/47.png
+193648,2013-01-12,66.0,41.0,0,1,Villa Park (Birmingham),Aston Villa,Southampton,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/41.png
+193649,2013-01-12,45.0,76.0,0,0,Goodison Park (Liverpool),Everton,Swansea,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/76.png
+193650,2013-01-12,36.0,61.0,1,1,Craven Cottage (London),Fulham,Wigan,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/61.png
+193651,2013-01-12,71.0,34.0,0,0,"Carrow Road (Norwich, Norfolk)",Norwich,Newcastle,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/34.png
+193652,2013-01-12,53.0,60.0,3,2,Madejski Stadium (Reading),Reading,West Brom,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/60.png
+193653,2013-01-12,75.0,49.0,0,4,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Chelsea,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/49.png
+193654,2013-01-12,74.0,48.0,3,0,Stadium of Light (Sunderland),Sunderland,West Ham,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/48.png
+193655,2013-01-13,33.0,40.0,2,1,Old Trafford (Manchester),Manchester United,Liverpool,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/40.png
+193656,2013-01-13,42.0,50.0,0,2,Emirates Stadium (London),Arsenal,Manchester City,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/50.png
+193606,2013-01-16,49.0,41.0,2,2,Stamford Bridge (London),Chelsea,Southampton,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/41.png
+193657,2013-01-19,40.0,71.0,5,0,Anfield (Liverpool),Liverpool,Norwich,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/71.png
+193658,2013-01-19,50.0,36.0,2,0,Etihad Stadium (Manchester),Manchester City,Fulham,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/36.png
+193659,2013-01-19,34.0,53.0,1,2,St. James' Park (Newcastle-upon-Tyne),Newcastle,Reading,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/53.png
+193660,2013-01-19,76.0,75.0,3,1,Liberty Stadium (Swansea),Swansea,Stoke City,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/75.png
+193661,2013-01-19,48.0,72.0,1,1,Boleyn Ground (London),West Ham,QPR,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/72.png
+193662,2013-01-19,61.0,74.0,2,3,The DW Stadium (Wigan),Wigan,Sunderland,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/746.png
+193663,2013-01-19,60.0,66.0,2,2,The Hawthorns (West Bromwich),West Brom,Aston Villa,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/66.png
+193664,2013-01-20,49.0,42.0,2,1,Stamford Bridge (London),Chelsea,Arsenal,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/42.png
+193665,2013-01-20,47.0,33.0,1,1,White Hart Lane (London),Tottenham,Manchester United,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/33.png
+193666,2013-01-21,41.0,45.0,0,0,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Everton,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/45.png
+193626,2013-01-23,42.0,48.0,5,1,Emirates Stadium (London),Arsenal,West Ham,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/48.png
+193667,2013-01-29,66.0,34.0,1,2,Villa Park (Birmingham),Aston Villa,Newcastle,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/34.png
+193668,2013-01-29,72.0,50.0,0,0,Loftus Road Stadium (London),QPR,Manchester City,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/50.png
+193669,2013-01-29,75.0,61.0,2,2,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Wigan,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/61.png
+193670,2013-01-29,74.0,76.0,0,0,Stadium of Light (Sunderland),Sunderland,Swansea,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/76.png
+193671,2013-01-30,42.0,40.0,2,2,Emirates Stadium (London),Arsenal,Liverpool,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/40.png
+193672,2013-01-30,71.0,47.0,1,1,"Carrow Road (Norwich, Norfolk)",Norwich,Tottenham,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/47.png
+193673,2013-01-30,45.0,60.0,2,1,Goodison Park (Liverpool),Everton,West Brom,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/60.png
+193674,2013-01-30,33.0,41.0,2,1,Old Trafford (Manchester),Manchester United,Southampton,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/41.png
+193675,2013-01-30,53.0,49.0,2,2,Madejski Stadium (Reading),Reading,Chelsea,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/49.png
+193676,2013-01-30,36.0,48.0,3,1,Craven Cottage (London),Fulham,West Ham,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/48.png
+193677,2013-02-02,72.0,71.0,0,0,Loftus Road Stadium (London),QPR,Norwich,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/71.png
+193678,2013-02-02,42.0,75.0,1,0,Emirates Stadium (London),Arsenal,Stoke City,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/75.png
+193679,2013-02-02,45.0,66.0,3,3,Goodison Park (Liverpool),Everton,Aston Villa,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/66.png
+193680,2013-02-02,34.0,49.0,3,2,St. James' Park (Newcastle-upon-Tyne),Newcastle,Chelsea,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/49.png
+193681,2013-02-02,53.0,74.0,2,1,Madejski Stadium (Reading),Reading,Sunderland,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/746.png
+193682,2013-02-02,48.0,76.0,1,0,Boleyn Ground (London),West Ham,Swansea,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/76.png
+193683,2013-02-02,61.0,41.0,2,2,The DW Stadium (Wigan),Wigan,Southampton,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/41.png
+193684,2013-02-02,36.0,33.0,0,1,Craven Cottage (London),Fulham,Manchester United,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/33.png
+193685,2013-02-03,60.0,47.0,0,1,The Hawthorns (West Bromwich),West Brom,Tottenham,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/47.png
+193686,2013-02-03,50.0,40.0,2,2,Etihad Stadium (Manchester),Manchester City,Liverpool,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/40.png
+193687,2013-02-09,47.0,34.0,2,1,White Hart Lane (London),Tottenham,Newcastle,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/34.png
+193688,2013-02-09,49.0,61.0,4,1,Stamford Bridge (London),Chelsea,Wigan,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/61.png
+193689,2013-02-09,71.0,36.0,0,0,"Carrow Road (Norwich, Norfolk)",Norwich,Fulham,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/36.png
+193690,2013-02-09,75.0,53.0,2,1,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Reading,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/53.png
+193691,2013-02-09,74.0,42.0,0,1,Stadium of Light (Sunderland),Sunderland,Arsenal,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/42.png
+193692,2013-02-09,76.0,72.0,4,1,Liberty Stadium (Swansea),Swansea,QPR,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/72.png
+193693,2013-02-09,41.0,50.0,3,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Manchester City,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/50.png
+193694,2013-02-10,66.0,48.0,2,1,Villa Park (Birmingham),Aston Villa,West Ham,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/48.png
+193695,2013-02-10,33.0,45.0,2,0,Old Trafford (Manchester),Manchester United,Everton,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/45.png
+193696,2013-02-11,40.0,60.0,0,2,Anfield (Liverpool),Liverpool,West Brom,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/60.png
+193697,2013-02-17,40.0,76.0,5,0,Anfield (Liverpool),Liverpool,Swansea,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/76.png
+193698,2013-02-23,36.0,75.0,1,0,Craven Cottage (London),Fulham,Stoke City,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/75.png
+193699,2013-02-23,42.0,66.0,2,1,Emirates Stadium (London),Arsenal,Aston Villa,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/66.png
+193700,2013-02-23,71.0,45.0,2,1,"Carrow Road (Norwich, Norfolk)",Norwich,Everton,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/45.png
+193701,2013-02-23,72.0,33.0,0,2,Loftus Road Stadium (London),QPR,Manchester United,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/33.png
+193702,2013-02-23,53.0,61.0,0,3,Madejski Stadium (Reading),Reading,Wigan,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/61.png
+193703,2013-02-23,60.0,74.0,2,1,The Hawthorns (West Bromwich),West Brom,Sunderland,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/746.png
+193704,2013-02-24,50.0,49.0,2,0,Etihad Stadium (Manchester),Manchester City,Chelsea,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/49.png
+193705,2013-02-24,34.0,41.0,4,2,St. James' Park (Newcastle-upon-Tyne),Newcastle,Southampton,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/41.png
+193706,2013-02-25,48.0,47.0,2,3,Boleyn Ground (London),West Ham,Tottenham,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/47.png
+193707,2013-03-02,49.0,60.0,1,0,Stamford Bridge (London),Chelsea,West Brom,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/60.png
+193708,2013-03-02,45.0,53.0,3,1,Goodison Park (Liverpool),Everton,Reading,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/53.png
+193709,2013-03-02,33.0,71.0,4,0,Old Trafford (Manchester),Manchester United,Norwich,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/71.png
+193710,2013-03-02,41.0,72.0,1,2,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,QPR,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/72.png
+193711,2013-03-02,75.0,48.0,0,1,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,West Ham,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/48.png
+193712,2013-03-02,74.0,36.0,2,2,Stadium of Light (Sunderland),Sunderland,Fulham,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/36.png
+193713,2013-03-02,76.0,34.0,1,0,Liberty Stadium (Swansea),Swansea,Newcastle,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/34.png
+193714,2013-03-02,61.0,40.0,0,4,The DW Stadium (Wigan),Wigan,Liverpool,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/40.png
+193715,2013-03-03,47.0,42.0,2,1,White Hart Lane (London),Tottenham,Arsenal,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/42.png
+193716,2013-03-04,66.0,50.0,0,1,Villa Park (Birmingham),Aston Villa,Manchester City,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/50.png
+193717,2013-03-09,71.0,41.0,0,0,"Carrow Road (Norwich, Norfolk)",Norwich,Southampton,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/41.png
+193718,2013-03-09,72.0,74.0,3,1,Loftus Road Stadium (London),QPR,Sunderland,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/746.png
+193719,2013-03-09,53.0,66.0,1,2,Madejski Stadium (Reading),Reading,Aston Villa,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/66.png
+193720,2013-03-09,60.0,76.0,2,1,The Hawthorns (West Bromwich),West Brom,Swansea,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/76.png
+193721,2013-03-10,34.0,75.0,2,1,St. James' Park (Newcastle-upon-Tyne),Newcastle,Stoke City,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/75.png
+193722,2013-03-10,40.0,47.0,3,2,Anfield (Liverpool),Liverpool,Tottenham,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/47.png
+193727,2013-03-16,45.0,50.0,2,0,Goodison Park (Liverpool),Everton,Manchester City,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/50.png
+193728,2013-03-16,66.0,72.0,3,2,Villa Park (Birmingham),Aston Villa,QPR,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/72.png
+193729,2013-03-16,41.0,40.0,3,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Liverpool,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/40.png
+193730,2013-03-16,75.0,60.0,0,0,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,West Brom,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/60.png
+193731,2013-03-16,76.0,42.0,0,2,Liberty Stadium (Swansea),Swansea,Arsenal,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/42.png
+193732,2013-03-16,33.0,53.0,1,0,Old Trafford (Manchester),Manchester United,Reading,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/53.png
+193733,2013-03-17,74.0,71.0,1,1,Stadium of Light (Sunderland),Sunderland,Norwich,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/71.png
+193734,2013-03-17,47.0,36.0,0,1,White Hart Lane (London),Tottenham,Fulham,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/36.png
+193735,2013-03-17,49.0,48.0,2,0,Stamford Bridge (London),Chelsea,West Ham,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/48.png
+193736,2013-03-17,61.0,34.0,2,1,The DW Stadium (Wigan),Wigan,Newcastle,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/34.png
+193737,2013-03-30,74.0,33.0,0,1,Stadium of Light (Sunderland),Sunderland,Manchester United,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/33.png
+193738,2013-03-30,42.0,53.0,4,1,Emirates Stadium (London),Arsenal,Reading,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/53.png
+193739,2013-03-30,50.0,34.0,4,0,Etihad Stadium (Manchester),Manchester City,Newcastle,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/34.png
+193740,2013-03-30,41.0,49.0,2,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Chelsea,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/49.png
+193741,2013-03-30,76.0,47.0,1,2,Liberty Stadium (Swansea),Swansea,Tottenham,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/47.png
+193742,2013-03-30,48.0,60.0,3,1,Boleyn Ground (London),West Ham,West Brom,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/60.png
+193743,2013-03-30,61.0,71.0,1,0,The DW Stadium (Wigan),Wigan,Norwich,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/71.png
+193744,2013-03-30,45.0,75.0,1,0,Goodison Park (Liverpool),Everton,Stoke City,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/75.png
+193745,2013-03-31,66.0,40.0,1,2,Villa Park (Birmingham),Aston Villa,Liverpool,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/40.png
+193746,2013-04-01,36.0,72.0,3,2,Craven Cottage (London),Fulham,QPR,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/72.png
+193747,2013-04-06,53.0,41.0,0,2,Madejski Stadium (Reading),Reading,Southampton,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/41.png
+193748,2013-04-06,71.0,76.0,2,2,"Carrow Road (Norwich, Norfolk)",Norwich,Swansea,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/76.png
+193749,2013-04-06,75.0,66.0,1,3,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Aston Villa,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/66.png
+193750,2013-04-06,60.0,42.0,1,2,The Hawthorns (West Bromwich),West Brom,Arsenal,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/42.png
+193751,2013-04-07,40.0,48.0,0,0,Anfield (Liverpool),Liverpool,West Ham,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/48.png
+193752,2013-04-07,47.0,45.0,2,2,White Hart Lane (London),Tottenham,Everton,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/45.png
+193753,2013-04-07,49.0,74.0,2,1,Stamford Bridge (London),Chelsea,Sunderland,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/746.png
+193754,2013-04-07,34.0,36.0,1,0,St. James' Park (Newcastle-upon-Tyne),Newcastle,Fulham,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/36.png
+193755,2013-04-07,72.0,61.0,1,1,Loftus Road Stadium (London),QPR,Wigan,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/61.png
+193756,2013-04-08,33.0,50.0,1,2,Old Trafford (Manchester),Manchester United,Manchester City,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/50.png
+193757,2013-04-13,42.0,71.0,3,1,Emirates Stadium (London),Arsenal,Norwich,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/71.png
+193758,2013-04-13,66.0,36.0,1,1,Villa Park (Birmingham),Aston Villa,Fulham,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/36.png
+193759,2013-04-13,45.0,72.0,2,0,Goodison Park (Liverpool),Everton,QPR,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/72.png
+193760,2013-04-13,53.0,40.0,0,0,Madejski Stadium (Reading),Reading,Liverpool,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/40.png
+193761,2013-04-13,41.0,48.0,1,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,West Ham,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/48.png
+193762,2013-04-14,34.0,74.0,0,3,St. James' Park (Newcastle-upon-Tyne),Newcastle,Sunderland,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/746.png
+193763,2013-04-14,75.0,33.0,0,2,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Manchester United,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/33.png
+193723,2013-04-16,42.0,45.0,0,0,Emirates Stadium (London),Arsenal,Everton,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/45.png
+193724,2013-04-17,50.0,61.0,1,0,Etihad Stadium (Manchester),Manchester City,Wigan,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/61.png
+193725,2013-04-17,48.0,33.0,2,2,Boleyn Ground (London),West Ham,Manchester United,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/33.png
+193726,2013-04-17,36.0,49.0,0,3,Craven Cottage (London),Fulham,Chelsea,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/49.png
+193767,2013-04-20,36.0,42.0,0,1,Craven Cottage (London),Fulham,Arsenal,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/42.png
+193768,2013-04-20,71.0,53.0,2,1,"Carrow Road (Norwich, Norfolk)",Norwich,Reading,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/53.png
+193769,2013-04-20,72.0,75.0,0,2,Loftus Road Stadium (London),QPR,Stoke City,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/75.png
+193770,2013-04-20,74.0,45.0,1,0,Stadium of Light (Sunderland),Sunderland,Everton,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/45.png
+193771,2013-04-20,76.0,41.0,0,0,Liberty Stadium (Swansea),Swansea,Southampton,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/41.png
+193772,2013-04-20,60.0,34.0,1,1,The Hawthorns (West Bromwich),West Brom,Newcastle,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/34.png
+193773,2013-04-20,48.0,61.0,2,0,Boleyn Ground (London),West Ham,Wigan,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/61.png
+193774,2013-04-21,47.0,50.0,3,1,White Hart Lane (London),Tottenham,Manchester City,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/50.png
+193775,2013-04-21,40.0,49.0,2,2,Anfield (Liverpool),Liverpool,Chelsea,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/49.png
+193776,2013-04-22,33.0,66.0,3,0,Old Trafford (Manchester),Manchester United,Aston Villa,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/66.png
+193777,2013-04-27,50.0,48.0,2,1,Etihad Stadium (Manchester),Manchester City,West Ham,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/48.png
+193778,2013-04-27,45.0,36.0,1,0,Goodison Park (Liverpool),Everton,Fulham,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/36.png
+193779,2013-04-27,41.0,60.0,0,3,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,West Brom,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/60.png
+193780,2013-04-27,75.0,71.0,1,0,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Norwich,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/71.png
+193781,2013-04-27,61.0,47.0,2,2,The DW Stadium (Wigan),Wigan,Tottenham,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/47.png
+193782,2013-04-27,34.0,40.0,0,6,St. James' Park (Newcastle-upon-Tyne),Newcastle,Liverpool,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/40.png
+193783,2013-04-28,53.0,72.0,0,0,Madejski Stadium (Reading),Reading,QPR,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/72.png
+193784,2013-04-28,49.0,76.0,2,0,Stamford Bridge (London),Chelsea,Swansea,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/76.png
+193785,2013-04-28,42.0,33.0,1,1,Emirates Stadium (London),Arsenal,Manchester United,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/33.png
+193786,2013-04-29,66.0,74.0,6,1,Villa Park (Birmingham),Aston Villa,Sunderland,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/746.png
+193787,2013-05-04,36.0,53.0,2,4,Craven Cottage (London),Fulham,Reading,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/53.png
+193788,2013-05-04,71.0,66.0,1,2,"Carrow Road (Norwich, Norfolk)",Norwich,Aston Villa,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/66.png
+193789,2013-05-04,76.0,50.0,0,0,Liberty Stadium (Swansea),Swansea,Manchester City,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/50.png
+193790,2013-05-04,60.0,61.0,2,3,The Hawthorns (West Bromwich),West Brom,Wigan,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/61.png
+193791,2013-05-04,48.0,34.0,0,0,Boleyn Ground (London),West Ham,Newcastle,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/34.png
+193792,2013-05-04,47.0,41.0,1,0,White Hart Lane (London),Tottenham,Southampton,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/41.png
+193793,2013-05-04,72.0,42.0,0,1,Loftus Road Stadium (London),QPR,Arsenal,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/42.png
+193794,2013-05-05,40.0,45.0,0,0,Anfield (Liverpool),Liverpool,Everton,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/45.png
+193795,2013-05-05,33.0,49.0,0,1,Old Trafford (Manchester),Manchester United,Chelsea,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/49.png
+193796,2013-05-06,74.0,75.0,1,1,Stadium of Light (Sunderland),Sunderland,Stoke City,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/75.png
+193764,2013-05-07,50.0,60.0,1,0,Etihad Stadium (Manchester),Manchester City,West Brom,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/60.png
+193765,2013-05-07,61.0,76.0,2,3,The DW Stadium (Wigan),Wigan,Swansea,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/76.png
+193766,2013-05-08,49.0,47.0,2,2,Stamford Bridge (London),Chelsea,Tottenham,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/47.png
+193797,2013-05-11,66.0,49.0,1,2,Villa Park (Birmingham),Aston Villa,Chelsea,https://media.api-sports.io/football/teams/66.png,https://media.api-sports.io/football/teams/49.png
+193798,2013-05-12,75.0,47.0,1,2,"Britannia Stadium (Stoke-on-Trent, Staffordshire)",Stoke City,Tottenham,https://media.api-sports.io/football/teams/75.png,https://media.api-sports.io/football/teams/47.png
+193799,2013-05-12,45.0,48.0,2,0,Goodison Park (Liverpool),Everton,West Ham,https://media.api-sports.io/football/teams/45.png,https://media.api-sports.io/football/teams/48.png
+193800,2013-05-12,36.0,40.0,1,3,Craven Cottage (London),Fulham,Liverpool,https://media.api-sports.io/football/teams/36.png,https://media.api-sports.io/football/teams/40.png
+193801,2013-05-12,71.0,60.0,4,0,"Carrow Road (Norwich, Norfolk)",Norwich,West Brom,https://media.api-sports.io/football/teams/71.png,https://media.api-sports.io/football/teams/60.png
+193802,2013-05-12,72.0,34.0,1,2,Loftus Road Stadium (London),QPR,Newcastle,https://media.api-sports.io/football/teams/72.png,https://media.api-sports.io/football/teams/34.png
+193803,2013-05-12,74.0,41.0,1,1,Stadium of Light (Sunderland),Sunderland,Southampton,https://media.api-sports.io/football/teams/746.png,https://media.api-sports.io/football/teams/41.png
+193804,2013-05-12,33.0,76.0,2,1,Old Trafford (Manchester),Manchester United,Swansea,https://media.api-sports.io/football/teams/33.png,https://media.api-sports.io/football/teams/76.png
+193805,2013-05-14,42.0,61.0,4,1,Emirates Stadium (London),Arsenal,Wigan,https://media.api-sports.io/football/teams/42.png,https://media.api-sports.io/football/teams/61.png
+193806,2013-05-14,53.0,50.0,0,2,Madejski Stadium (Reading),Reading,Manchester City,https://media.api-sports.io/football/teams/53.png,https://media.api-sports.io/football/teams/50.png
+193807,2013-05-19,49.0,45.0,2,1,Stamford Bridge (London),Chelsea,Everton,https://media.api-sports.io/football/teams/49.png,https://media.api-sports.io/football/teams/45.png
+193808,2013-05-19,40.0,72.0,1,0,Anfield (Liverpool),Liverpool,QPR,https://media.api-sports.io/football/teams/40.png,https://media.api-sports.io/football/teams/72.png
+193809,2013-05-19,50.0,71.0,2,3,Etihad Stadium (Manchester),Manchester City,Norwich,https://media.api-sports.io/football/teams/50.png,https://media.api-sports.io/football/teams/71.png
+193810,2013-05-19,34.0,42.0,0,1,St. James' Park (Newcastle-upon-Tyne),Newcastle,Arsenal,https://media.api-sports.io/football/teams/34.png,https://media.api-sports.io/football/teams/42.png
+193811,2013-05-19,41.0,75.0,1,1,"St. Mary's Stadium (Southampton, Hampshire)",Southampton,Stoke City,https://media.api-sports.io/football/teams/41.png,https://media.api-sports.io/football/teams/75.png
+193812,2013-05-19,76.0,36.0,0,3,Liberty Stadium (Swansea),Swansea,Fulham,https://media.api-sports.io/football/teams/76.png,https://media.api-sports.io/football/teams/36.png
+193813,2013-05-19,47.0,74.0,1,0,White Hart Lane (London),Tottenham,Sunderland,https://media.api-sports.io/football/teams/47.png,https://media.api-sports.io/football/teams/746.png
+193814,2013-05-19,60.0,33.0,5,5,The Hawthorns (West Bromwich),West Brom,Manchester United,https://media.api-sports.io/football/teams/60.png,https://media.api-sports.io/football/teams/33.png
+193815,2013-05-19,48.0,53.0,4,2,Boleyn Ground (London),West Ham,Reading,https://media.api-sports.io/football/teams/48.png,https://media.api-sports.io/football/teams/53.png
+193816,2013-05-19,61.0,66.0,2,2,The DW Stadium (Wigan),Wigan,Aston Villa,https://media.api-sports.io/football/teams/61.png,https://media.api-sports.io/football/teams/66.png
