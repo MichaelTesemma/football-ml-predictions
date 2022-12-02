@@ -90,7 +90,8 @@ def convert_team_name(name):
         'West Brom': 'West Bromwich Albion',
         'West Ham': 'West Ham United',
         'Wigan': 'Wigan Athletic',
-        'Wolves': 'Wolverhampton Wanderers'
+        'Wolves': 'Wolverhampton Wanderers',
+        'Nottingham' : 'Nottingham Forest FC' # this team is added watchout
     }
     return name_change_map[name] if name in name_change_map else name
 

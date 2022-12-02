@@ -12,7 +12,7 @@ YEAR_str = str(YEAR)
 request_league_ids = False
 request_fixtures = True
 request_missing_game_stats = True
-api_key = "8e97d665523a3691213379e0d80a7044"
+api_key = "9ca16fc86118e39df267b90be13bf7d1"
 base_url = 'https://v2.api-football.com/'
 
 
@@ -160,7 +160,7 @@ def read_json_as_pd_df(json_data, json_data_path='', orient_def='records'):
 
 # Requesting Specific Stats
 
-fixtures_clean = pd.read_csv(f'data/{YEAR_str}_fixtures_df.csv')
+fixtures_clean = pd.read_csv(f'data1/{YEAR_str}_fixtures_df.csv')
 
 
 def req_prem_stats(start_index, end_index):
@@ -176,7 +176,7 @@ def req_prem_stats(start_index, end_index):
             print(f'Getting match number {i}')
             time.sleep(6)
 
-req_prem_stats(0, 50)
+req_prem_stats(50, 120)
 
 
 

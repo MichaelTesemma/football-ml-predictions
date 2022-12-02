@@ -10,12 +10,12 @@ def make_directory(path):
 # If date is specified, calculate ranking up until that date
 def get_rankings(from_file, to_file, date=None, include_prediction=False, predicted_date_so_far=None, ranking_summary_file=None):
 
-    if not os.path.exists(dir):
-        os.makedirs(dir)
-    if date:
-        date = datetime.strptime(date, '%Y-%m-%d')
-    if not (from_file and to_file):
-        raise ValueError("Error: get_rankings: Give a from_file/to_file pair")
+    # if not os.path.exists(dir):
+    #     os.makedirs(dir)
+    # if date:
+    #     date = datetime.strptime(date, '%Y-%m-%d')
+    # if not (from_file and to_file):
+    #     raise ValueError("Error: get_rankings: Give a from_file/to_file pair")
     
     df = pd.read_csv(from_file)
 

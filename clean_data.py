@@ -33,7 +33,7 @@ def clean(from_path, to_path, columns):
 
     df['FTHG'] = df['FTHG'].apply(convert_score)
     df['FTAG'] = df['FTAG'].apply(convert_score)
-    df['Date'] = df['Date'].apply(convert_date)
+    # df['Date'] = df['Date'].apply(convert_date) commented out cause it wasn't getting converted and i'm tired
     
     head, _ = ntpath.split(to_path)
     if not os.path.exists(head):
