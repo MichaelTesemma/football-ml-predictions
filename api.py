@@ -6,13 +6,13 @@ import pandas as pd
 import math
 from os import listdir
 
-YEAR = 2021
+YEAR = 2017
 YEAR_str = str(YEAR)
 
 request_league_ids = False
 request_fixtures = True
 request_missing_game_stats = True
-api_key = "819ed446997345f9c5c3c207f6213636"
+api_key = "8e97d665523a3691213379e0d80a7044"
 base_url = 'https://v2.api-football.com/'
 
 
@@ -169,11 +169,14 @@ def req_prem_stats(start_index, end_index):
             fix_id = str(fixtures_clean['Fixture ID'].iloc[i])
             fixture_raw = get_api_data(base_url, '/statistics/fixture/' + fix_id + '/')
             fixture_sliced = slice_api(fixture_raw, 34, 2)
-            save_api_output('json/' + fix_id, fixture_sliced)
+            save_api_output('json/2017/' + fix_id, fixture_sliced)
             print('sleeping for 6 seconds - API only allows 10 requests per minute')
-            time.sleep(6)
+            with open("2017.txt", 'w') as f:
+                f.write(f'the id number is {fix_id} and index is {i + 1}')
             print(f'Getting match number {i}')
-req_prem_stats(0, 110)
+            time.sleep(6)
+
+req_prem_stats(0, 50)
 
 
 

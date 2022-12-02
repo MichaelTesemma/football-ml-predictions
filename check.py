@@ -3,7 +3,7 @@ from os import listdir
 import math
 import time
 
-data = pd.read_csv('data/2010_fixtures_df.csv')
+# data = pd.read_csv('data/2010_fixtures_df.csv')
 # data = pd.read_csv('data/2010_fixtures_df.csv')
 # data1 = pd.read_csv('data/2011_fixtures_df.csv')
 # data2 = pd.concat([data, data1])
@@ -27,10 +27,21 @@ data = pd.read_csv('data/2010_fixtures_df.csv')
 #         print('sleeping for 1 minute - API only allows 10 requests per minute')
 #         time.sleep(2)
 #     print(i)
-df_list = []
-for i in range(2019, 2022):
-    df_list.append(pd.read_csv(f'data/{i}_fixtures_df.csv'))
+# df_list = []
+# for i in range(2019, 2022):
+#     df_list.append(pd.read_csv(f'data/{i}_fixtures_df.csv'))
 
-df = pd.concat(df_list)
-df = df.reset_index(drop=True)
-df.to_csv('data/2019-2022.csv')
+# df = pd.concat(df_list)
+# df = df.reset_index(drop=True)
+# df.to_csv('data/2019-2022.csv')
+
+# # print(link.head())
+# data = pd.read_csv('data1/2019_fixtures_df.csv')
+# print(data.head())
+# print(data.columns)
+
+def format_api_url(year):
+    base_url = 'https://www.football-data.co.uk/mmz4281/{}{}/E0.csv'
+    return base_url.format(str(year)[2:], str(year + 1)[2:])
+
+print(format_api_url(2019))

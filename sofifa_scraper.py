@@ -116,8 +116,7 @@ def merge_ova_to_cleaned(ova_path, cleaned_path):
 
 
 def scrape_team_ova_all(path, from_year, to_year):
-    # scrape_team_ova(from_year, to_year, path)
-    scrape_team_ova(2019, 2022, path)
+    scrape_team_ova(from_year, to_year, path)
 
 
 def merge_ova_to_cleaned_all(ova_folder_path, cleaned_folder_path, from_year, to_year):
@@ -134,5 +133,3 @@ def merge_ova_to_cleaned_all(ova_folder_path, cleaned_folder_path, from_year, to
         merge_ova_to_cleaned(ova_path, cleaned_path)
 
 
-if __name__ == "__main__":
-    scrape_team_ova_all("data/OVAs", 2019, 2022)
